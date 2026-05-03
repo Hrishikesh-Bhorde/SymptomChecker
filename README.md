@@ -17,3 +17,11 @@ GROQ_API_KEY=YOUR_KEY
 ### To start application
 CMD: streamlit run Symptom_checker.py
 
+
+## UI
+<img width="951" height="484" alt="image" src="https://github.com/user-attachments/assets/8085008f-d701-4de9-a6fd-9443324ba162" />
+
+
+
+
+
